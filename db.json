@@ -1,0 +1,24 @@
+{
+  "users":[
+      {
+          "id":1,
+          "name":"Leo",
+          "email":"leojn8@gmail.com",
+          "telefone":"48999311384",
+          "endereço1":"mauro ramos",
+          "endereço2":"silva jardim",
+          "endereço3":"francisca marques silva"
+
+      },
+      {
+          "id":2,
+          "name":"Liofly",
+          "email":"leojn8@gmail.com",
+          "telefone":"48999311384",
+          "endereço1":"mauro ramos",
+          "endereço2":"silva jardim",
+          "endereço3":"francisca marques silva"
+
+      }
+  ]
+}
